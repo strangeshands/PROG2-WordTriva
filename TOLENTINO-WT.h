@@ -1,3 +1,5 @@
+// PROPERTY OF HEPHZI-BAH TOLENTINO //
+
 #include <stdio.h>
 #include <string.h>
 
