@@ -1,4 +1,5 @@
 # WordTriva-PROG2
+## By: Hephzi-Bah Tolentino
 Repository for CCPROG2 MCO
 - Uploaded for publicity purposes
 - To compile:
