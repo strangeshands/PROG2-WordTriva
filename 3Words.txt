@@ -1,0 +1,11 @@
+Object: Basket
+Use: Storage
+
+Object: Bass
+Kind of: Musical Instrument
+Number of Strings: Four (4)
+
+Object: Pillow
+Use: Sleeping
+Description: Very soft
+

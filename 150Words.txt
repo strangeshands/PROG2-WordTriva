@@ -1,0 +1,458 @@
+Object: Apple
+Taste is: Sweet
+
+Object: Backpack
+Equipment for: School
+
+Object: Bag
+Purpose: Container
+
+Object: Balloon
+Used at: Parties
+
+Object: Banana
+Eaten by: Monkeys
+
+Object: Banknote
+Given by: Banker
+
+Object: Barrel
+Container for: Pirates
+
+Object: Bathrobe
+Clothing: After Bath
+
+Object: Blender
+Creates: Smoothies
+
+Object: Book
+Found at: Library
+
+Object: Boots
+Clothing: For Feet
+
+Object: Bottle
+Made of: Glass
+
+Object: Bow
+Paired with: Arrow
+
+Object: Bowl
+Filled with: Cereal
+
+Object: Box
+Used for: Packing
+
+Object: Brush
+Used for: Hair or Teeth
+Has: Bristles
+
+Object: Cable
+Equipment: Technology
+
+Object: Calculator
+Used for: School
+
+Object: Calendar
+Filled with: Dates
+
+Object: Camera
+Captures: Memories
+
+Object: Can
+Container: Food
+
+Object: Cap
+Clothing: Hat
+
+Object: Carton
+Container: Milk
+
+Object: Chain
+Made: Gold
+
+Object: Chair
+Equipment: Sitting
+
+Object: Chopsticks
+Utensil: Asian
+
+Object: Clock
+Tells the: Time
+
+Object: Coat
+Clothing: Cold
+
+Object: Coffee maker
+Makes: Coffee
+
+Object: Coin
+Money: Gold
+
+Object: Comb
+Used for: Hair
+
+Object: Combination
+Similar to: Mixed
+
+Object: Computer
+Equipment: Technology
+
+Object: Conditioner
+Product: Hair
+
+Object: Cord
+Similar to: Cable
+
+Object: Coupon
+Used at: Stores
+
+Object: Crate
+Type of: Box
+
+Object: Credit card
+Payment: Card
+
+Object: Cup
+Used for: Drinking
+
+Object: Debit card
+Payment: Card 
+
+Object: Desk
+Used at: Office
+
+Object: Dish
+Type of: Food
+
+Object: Dress
+Clothing: Has a skirt
+
+Object: Endorser
+Person: Advertiser
+
+Object: Envelope
+Paper: Letter
+
+Object: Eraser
+Delete: Mistakes
+
+Object: Feet
+Not: Hands
+
+Object: Food processor
+Similar to: Blender
+
+Object: Fork
+Not: Spoon
+
+Object: Found
+Similar to: Discovered
+
+Object: Glass
+Equipment: Sharp
+
+Object: Glasses
+Accessory: Eyes
+
+Object: Globe
+Model: Earth
+
+Object: Gloves
+Accessory: Hands
+
+Object: Glue
+Made to: Stick
+
+Object: Golf
+Equipment: Club
+Location: Grass Field
+
+Object: Griddle
+Similar to: Skillet
+
+Object: Grill
+Makes: Barbeque
+
+Object: Hairdryer
+Dries: HAir
+
+Object: Handbag
+bag for: Hand
+
+Object: Hat
+Clothing: Cap
+
+Object: Highlighter
+Made to: Highlight
+
+Object: ID card
+Student: Identification
+
+Object: Invitation
+Letter: Party
+
+Object: Jacket
+Use: In Cold Weather
+
+Object: Jar
+Has: Pickles
+
+Object: Jug
+Contains: Water
+
+Object: Juicer
+Made to: Juice
+
+Object: Kangaroo
+Category: Animal
+
+Object: Key
+Opens: Lock
+
+Object: Keyboard
+Paired with: Mouse
+
+Object: Keychain
+Key: Chain
+
+Object: Knife
+Very: Sharp
+
+Object: Label
+Kind of: Tag
+
+Object: Lamp
+Used for: Light
+
+Object: Letter
+Writing: Paper
+
+Object: Lock
+Use: Protection
+
+Object: Lockbox
+Locked: Box
+
+Object: Locker
+School: Container
+
+Object: Luggage
+Container: Clothes
+
+Object: Magnifying glass
+Glass: Magnifies
+
+Object: Map
+Compass: Paper
+
+Object: Marker
+Material for: Writing
+
+Object: Microscope
+Used for: Science
+
+Object: Microwave
+Cooking: Fast
+
+Object: Mirror
+See: Reflection
+
+Object: Mixer
+Used to: Mix
+
+Object: Napkin
+Used for: Wiping
+
+Object: Notebook
+Paper: Writing
+
+Object: Otter
+Animal: Water
+
+Object: Outside
+Not: Inside
+
+Object: Oven
+Microwave: Baking
+
+Object: Package
+Delivery: Box
+
+Object: Padlock
+Lock: Pad
+
+Object: Pan
+Cooking: Frying
+
+Object: Pants
+Clothing: Lower
+
+Object: Paper
+Writing: Tree
+
+Object: Parcel
+Made: Antique
+
+Object: Pen
+Material: Writing
+
+Object: Pitcher
+Paired with: Catcher
+
+Object: Placemat
+Place: Mat
+
+Object: Plate
+Used for: Eating
+
+Object: Postcard
+Card: Posting
+
+Object: Pot
+Cooking: Soup
+
+Object: Purse
+Container: Money
+
+Object: Quentin
+Who: Director
+Notable Work: Kill Bill
+Notable Work: Once Upon A Time In Hollywood
+Feature: Bloody Scenes
+
+Object: Query
+Similar to: Question
+
+Object: Queue
+Long: Line
+
+Object: Raincoat
+Clothing: Rain
+
+Object: Receipt
+Proof: Payment
+
+Object: Ribbon
+Clothing: Knot
+
+Object: Rope
+Use: Tie
+Feature: Tug-of-war
+
+Object: Ruler
+Use: Making Straight Lines
+
+Object: Safe
+Keeps: Money
+
+Object: Sandals
+Open: Shoes
+
+Object: Saucer
+Holds: Sauce
+
+Object: Scarf
+Clothing: Neck
+
+Object: Scissors
+Cut: Objects
+
+Object: Shampoo
+Use: Hair Product
+Category: Hygiene
+
+Object: Shirt
+Clothing: Upper
+
+Object: Shoes
+Clothing: Feet
+
+Object: Shorts
+Clothing: Short
+
+Object: Skillet
+Use: Cooking
+
+Object: Skirt
+Category: Clothing
+Length: Mini, Maxi, Midi
+
+Object: Slippers
+Use: Walking Outside
+
+Object: Soap
+Hyegeine: Body
+
+Object: Soccer
+Sport: Goal
+
+Object: Socks
+Clothing: Feet
+
+Object: Spoon
+Not: Fork
+
+Object: Stamp
+Ink: Mark
+
+Object: Stove
+Used for: Cooking
+
+Object: Tablecloth
+Cloth: Table
+
+Object: Tablet
+Not: Ipad
+
+Object: Tag
+Type of: Game
+
+Object: Tape
+Round: Sticky
+
+Object: Telescope
+Equipment: Stars
+
+Object: Umbrella
+Shield from: Rain
+
+Object: Verdict
+Final: Decision
+
+Object: Vessel
+Made: Antique
+
+Object: Violin
+Category: Musical Instrument
+
+Object: Volatile
+Changing: Rapidly
+
+Object: Watermelon
+Melon: Water
+
+Object: Whale
+Animal: Water
+
+Object: Wonder
+Similar to: Amaze
+
+Object: Work
+After: College
+
+Object: Xenon
+Type of: Element
+
+Object: Xylophone
+Category: Musical Instrument
+
+Object: Zark's
+Place: Food
+
+Object: Zebra
+Animal: Stripes
+
+Object: Zoom
+To: Magnify
+

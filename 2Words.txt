@@ -1,0 +1,7 @@
+Object: Bag
+Use: Storage
+
+Object: Bass
+Type: Instrument
+Strings: 4
+

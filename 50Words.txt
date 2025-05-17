@@ -1,0 +1,168 @@
+Object: Admire
+Category: Verb
+Meaning: To Like Someone
+
+Object: Amplify
+Category: Verb
+Meaning: Boost
+
+Object: Apple
+Category: Fruit
+Color: Red
+
+Object: Aroma
+Feature: Scent
+Category: Noun
+
+Object: Arrogant
+Synonym: Boastful
+
+Object: Bag
+Use: Storing
+
+Object: Balloon
+Use: Party
+Feature: Pop
+
+Object: Bass
+Kind of: String instrument
+How many strings: Four
+
+Object: Book
+
+Object: Car
+
+Object: Chair
+
+Object: Clock
+
+Object: Computer
+
+Object: Door
+Use: Privacy
+Size: Tall
+Where: Entrance
+
+Object: Fork
+
+Object: Glass
+
+Object: Guard
+
+Object: Guitar
+Category: Musical Instrument
+Has: Strings
+Strings: Six (6)
+Color: Commonly brown
+Type: Can be electric or acoustic
+
+Object: Hand
+Category: Body Part
+Use: Holding, Grabbing
+
+Object: Hat
+
+Object: Jump
+Category: Action
+
+Object: Kangaroo
+Category: Animal
+Color: Brown
+Feature: Jump And Legs
+
+Object: Key
+Use: To Open Something
+Use: Privacy
+
+Object: Keyboard
+Category: Technology
+Use: Typing
+
+Object: Lamp
+
+Object: Laptop
+Category: Technology
+
+Object: Metal
+
+Object: Mirror
+Use: To see yourself
+Color: Nothing
+
+Object: Niece
+Meaning: Your Sibling's Daughter
+
+Object: Octopus
+Category: Animal
+Feature: 8 Legs
+
+Object: Paper
+
+Object: Pen
+
+Object: Pencil
+Category: School
+Use: Writing
+Color: Commonly Yellow
+
+Object: Phone
+
+Object: Piano
+Has: Keys
+Color: Black and White
+Size: Big
+
+Object: Picture Frame
+Kind Of: Decoration
+Color: Commonly Brown
+
+Object: Queue
+Meaning: Line
+
+Object: Rope
+
+Object: Savory
+Category: Food
+Meaning: Delicious
+
+Object: Shoe
+Use: Footwear
+Use: Walking
+
+Object: Soccer
+Category: Sports
+Equipment: Shoes
+
+Object: Spoon
+
+Object: Table
+Feature: Four Legs
+Category: Furniture
+
+Object: Television
+Category: Technology
+Use: Watching
+Partnered With: Remote
+
+Object: Titanium
+Category: Metal
+
+Object: Tree
+Category: Plant
+Size: Tall
+
+Object: Violin
+Category: Instrument
+Partnered with: Bow
+
+Object: Window
+Use: To See The Outside
+
+Object: Zebra
+Category: Animal
+Color: Black And White Stripes
+
+Object: zebra
+Color: Black and White Stripes
+Category: Mammal
+

@@ -1,0 +1,71 @@
+Object: Cillian Murphy
+Famous Movie: Oppenheimer
+Famous Role: Scarecrow
+Famous Movie: Inception
+Famous Movie: Dark Knight Franchise
+
+Object: Emma Stone
+Famous Movie: La La Land
+Famous Movie: Zombieland
+
+Object: Hugh Jackman
+Notable Role: Wolverine
+Movies: The Greatest Showman
+
+Object: Johnny Depp
+Famous Movie: Dark Shadows
+Famous Movie: Mortdecai
+
+Object: Leonardo Dicaprio
+Movies: Titanic
+Notable Role: Jack
+Movies: The Wolf Of Wall Street
+
+Object: Margot Robbie
+Famous Movie: Barbie
+Famous Movie: Suicide Squad
+Famous Role: Harley Quinn
+
+Object: Mark Ruffalo
+Movies: 13 Going On 30
+Movies: Avengers
+Notable Role: Bruce Banner
+
+Object: Oscar Isaac
+Famous Movie: Triple Frontier
+Famous Movie: Ex Machina
+
+Object: Quentin Tarantino
+Famous Movie: Kill Bill
+Famous Movie: Once Upon A Time In Hollywood
+Famous Movie: Pulp Fiction
+
+Object: Ryan Reynolds
+Famous Movie: Deadpool
+Famous Role: Hal Jordan
+Famous Movie: Free Guy
+
+Object: Tom Hanks
+Famous Movie: Forrest Gump
+Notable Role: Woody
+Famous Movie: Sully
+
+Object: Tom Hiddleston
+Notable Role: Loki Laufeyson
+Famous Movie: Avengers
+Famous Movie: Thor
+Famous Movie: Kong: Skull Island
+
+Object: Vanessa Kirby
+Famous Movie: Mission Impossible Franchise
+
+Object: Wes Anderson
+Famous Movie: The Grand Budapest Hotel
+
+Object: Will Smith
+Famous Movie: Men In Black Franchise
+Famous Role: J
+
+Object: Zendaya
+Famous Movie: Dune
+Famous Series: Euphoria
