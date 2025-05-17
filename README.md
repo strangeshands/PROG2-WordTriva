@@ -23,3 +23,6 @@ Repository for CCPROG2 MCO
   1. You can perform any of the operations on the game master menu.
   2. Modify existing or create new word list as you wish.
   3. Creation of categories are also possible.
+
+---
+// PROPERTY OF HEPHZI-BAH TOLENTINO //
