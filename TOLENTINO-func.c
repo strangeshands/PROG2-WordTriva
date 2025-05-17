@@ -1,3 +1,5 @@
+// PROPERTY OF HEPHZI-BAH TOLENTINO //
+
 #include "TOLENTINO-WT.h"
 
 // ------------------------------ ADMIN PHASE ------------------------------ // 
