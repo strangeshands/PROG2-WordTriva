@@ -9,7 +9,7 @@ Repository for CCPROG2 MCO
   ```
   game
   ```
-- **Disclaimer: This only works on Windows OS.**
+- Warning: **This only works on Windows OS.**
 
 ### Mechanics of The Game 
 **As a player**
