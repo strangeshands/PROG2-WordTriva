@@ -1,4 +1,4 @@
-# WordTriva (Word Guessing Game)
+# WordTrivia (Word Guessing Game)
 Repository for CCPROG2 MCO
 - Uploaded for publicity purposes
 - To compile:
